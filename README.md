@@ -57,10 +57,16 @@
    2. Preencha as váriaveis seguindo o ex do arquivo .env.example
 ```
 
-## Após seguir todos os passos é só executar o comando para iniciar a api.
+## Após seguir todos os passos é só executar o comando para iniciar a api:
 
 ```
    flask run
+```
+
+## Para executar os tests basta executar o comando:
+
+```
+   python -m pytest -v
 ```
 
 ## LINKS IMPORTANTES
