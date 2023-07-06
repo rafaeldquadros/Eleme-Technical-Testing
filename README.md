@@ -57,6 +57,12 @@
    2. Preencha as váriaveis seguindo o ex do arquivo .env.example
 ```
 
+## Comando para executar as migrations:
+
+```
+   flask db upgrade
+```
+
 ## Após seguir todos os passos é só executar o comando para iniciar a api:
 
 ```
