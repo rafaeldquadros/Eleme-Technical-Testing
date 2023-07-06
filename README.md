@@ -62,3 +62,10 @@
 ```
    flask run
 ```
+
+## LINKS IMPORTANTES
+
+```
+    Repositório: https://github.com/rafaeldquadros/Eleme-Technical-Testing
+    Link da documentação: https://eleme-test-documentation.vercel.app/
+```
