@@ -1,6 +1,5 @@
 from passlib.hash import pbkdf2_sha256
 from flask_jwt_extended import create_access_token
-from flask_jwt_extended import jwt_required
 
 from .model import UsersModel
 from .exceptions import (
